@@ -13,7 +13,3 @@ else:
     print("good")
 
 print("Hello changes")
-
-
-
-
